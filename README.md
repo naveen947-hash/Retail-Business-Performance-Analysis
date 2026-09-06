@@ -1,4 +1,4 @@
-# Power BI Capstone — Retail Business Performance Analytics
+# Power BI Capstone — E-Commerce Sales & Customer Analytics
 
 ## Overview
 This Power BI project (`powerbi_capstone.pbix`) is a multi-page dashboard analyzing an e-commerce business across revenue, orders, customers, and products. It uses a star-schema-style data model (Orders, Products, Users, Reviews) with DAX measures for KPIs, filterable by city, brand, category, order status, rating, and date.
@@ -23,8 +23,15 @@ Tables and key fields referenced across the report:
 
 ## Report Pages
 
+> **Note on the images below:** These are layout mockups generated from the report's actual visual positions, titles, and chart types (extracted directly from the .pbix file) — not live screenshots. Opening the file in Power BI Desktop will show the real charts populated with your data.
+
 ### 1. Overall Dashboard
 High-level KPI summary and trends.
+
+<img width="1050" height="492" alt="image" src="https://github.com/user-attachments/assets/adddc63e-9d56-4a05-96bb-62a70f45ea19" />
+
+![Overall Dashboard](Overall_Dashboard.png)
+
 - **Cards:** Total Revenue, Total Users, Total Orders, Average Order Value, Total Products, Average Review Rating
 - **Monthly Revenue Trend** (line chart)
 - **Top 10 Products by Revenue** (funnel)
@@ -35,6 +42,9 @@ High-level KPI summary and trends.
 
 ### 2. Customer & Product Analysis
 Deep dive into customer geography and product performance.
+
+![Customer & Product Analysis](Customer_and_Product_Analysis.png)
+
 - **Cards:** Total Users, Total Products, Average Product Price, Total Units Sold
 - **Customer Distribution by City** (map)
 - **Average Rating by Category** (bar chart)
@@ -44,6 +54,9 @@ Deep dive into customer geography and product performance.
 
 ### 3. Customer & Order Analysis
 Order behavior and fulfillment patterns.
+
+![Customer & Order Analysis](Customer_and_Order_Analysis.png)
+
 - **Cards:** Total Users, Total Orders, Average Order Value, Average Orders per Customer
 - **Orders by Month** (line chart)
 - **Order Status by Category** (bar chart)
