@@ -42,7 +42,8 @@ High-level KPI summary and trends.
 ### 2. Customer & Product Analysis
 Deep dive into customer geography and product performance.
 
-<img width="1050" height="495" alt="image" src="https://github.com/user-attachments/assets/d7974dbd-5451-4b65-be31-bb4fb4f197cf" />
+<img width="1596" height="767" alt="Screenshot 2026-08-25 204459" src="https://github.com/user-attachments/assets/9f622ec1-40da-4927-b36f-6362f5fc0f0e" />
+
 
 
 - **Cards:** Total Users, Total Products, Average Product Price, Total Units Sold
@@ -55,7 +56,8 @@ Deep dive into customer geography and product performance.
 ### 3. Customer & Order Analysis
 Order behavior and fulfillment patterns.
 
-<img width="1050" height="554" alt="image" src="https://github.com/user-attachments/assets/b19ecbf7-c32f-416b-953c-874a81b13e8a" />
+<img width="1586" height="716" alt="Screenshot 2026-08-26 101158" src="https://github.com/user-attachments/assets/aa601260-9120-4c3b-83bc-95a81a9fd782" />
+
 
 
 - **Cards:** Total Users, Total Orders, Average Order Value, Average Orders per Customer
