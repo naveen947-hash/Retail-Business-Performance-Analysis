@@ -1,4 +1,4 @@
-# Power BI Capstone — E-Commerce Sales & Customer Analytics
+# Power BI Capstone — Retail Business Performance Analysis
 
 ## Overview
 This Power BI project (`powerbi_capstone.pbix`) is a multi-page dashboard analyzing an e-commerce business across revenue, orders, customers, and products. It uses a star-schema-style data model (Orders, Products, Users, Reviews) with DAX measures for KPIs, filterable by city, brand, category, order status, rating, and date.
@@ -30,7 +30,6 @@ High-level KPI summary and trends.
 
 <img width="1050" height="492" alt="image" src="https://github.com/user-attachments/assets/adddc63e-9d56-4a05-96bb-62a70f45ea19" />
 
-![Overall Dashboard](Overall_Dashboard.png)
 
 - **Cards:** Total Revenue, Total Users, Total Orders, Average Order Value, Total Products, Average Review Rating
 - **Monthly Revenue Trend** (line chart)
@@ -43,7 +42,8 @@ High-level KPI summary and trends.
 ### 2. Customer & Product Analysis
 Deep dive into customer geography and product performance.
 
-![Customer & Product Analysis](Customer_and_Product_Analysis.png)
+<img width="1050" height="495" alt="image" src="https://github.com/user-attachments/assets/d7974dbd-5451-4b65-be31-bb4fb4f197cf" />
+
 
 - **Cards:** Total Users, Total Products, Average Product Price, Total Units Sold
 - **Customer Distribution by City** (map)
@@ -55,7 +55,8 @@ Deep dive into customer geography and product performance.
 ### 3. Customer & Order Analysis
 Order behavior and fulfillment patterns.
 
-![Customer & Order Analysis](Customer_and_Order_Analysis.png)
+<img width="1050" height="554" alt="image" src="https://github.com/user-attachments/assets/b19ecbf7-c32f-416b-953c-874a81b13e8a" />
+
 
 - **Cards:** Total Users, Total Orders, Average Order Value, Average Orders per Customer
 - **Orders by Month** (line chart)
